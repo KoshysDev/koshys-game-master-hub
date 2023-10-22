@@ -31,7 +31,8 @@ Welcome to the Koshys D&D Master Tool! 🎉 This project was created to enhance 
 <!-- Technology Stack -->
 ## 🛠️ Technology Stack
 
-- **Godot Engine (C# edition)**: Our game engine of choice for flexibility and performance, because I dont whant to use Unity because it would be to big and for at least now because of scandals. And I`am to lazy to learn Tree.js for web app.
+- **.NET framework 7.0+**
+- **OpenTK 4.x** 
 
 ---
 

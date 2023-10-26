@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace GameMasterHub
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            using(Game game = new Game()){
+                game.Run();
+            }
+        }
+    }
+}
+
+
